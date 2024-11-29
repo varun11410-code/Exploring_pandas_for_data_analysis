@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Exploring Pandas for Data Analysis</title>
 </head>
 <body>
     <header>
@@ -82,8 +81,5 @@
         <h2 style="color: #2980b9;">Contributing</h2>
         <p>Feel free to fork this repository, make changes, and submit pull requests. We welcome contributions to enhance the content, improve exercises, and add more examples.</p>
     </section>
-    <footer style="background-color: #3498db; color: white; padding: 10px; text-align: center;">
-        <p>License: MIT License</p>
-    </footer>
 </body>
 </html>
