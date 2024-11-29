@@ -21,7 +21,6 @@
             The project includes various exercises demonstrating the application of Pandas to real-world datasets. Topics covered include data preprocessing, aggregation, and visualization.
         </p>
     </section>
-    
     <section style="padding: 20px;">
         <h2 style="color: #2980b9;">Key Objectives</h2>
         <ul>
@@ -32,7 +31,6 @@
             <li><strong>Time Series Analysis:</strong> Explore time series data manipulation and forecasting (if applicable).</li>
         </ul>
     </section>
-    
     <section style="background-color: #ecf0f1; padding: 20px;">
         <h2 style="color: #2980b9;">Installation and Setup</h2>
         <p><strong>Prerequisites:</strong> Ensure you have Python and the following libraries installed:</p>
@@ -55,7 +53,6 @@
             </pre>
         </ol>
     </section>
-    
     <section style="padding: 20px;">
         <h2 style="color: #2980b9;">Usage</h2>
         <p>
@@ -66,7 +63,6 @@
             You can modify and experiment with the code in the notebook to better understand how to handle different data scenarios.
         </p>
     </section>
-    
     <section style="background-color: #f4f4f4; padding: 20px;">
         <h2 style="color: #2980b9;">Results and Conclusion</h2>
         <p>
@@ -82,12 +78,10 @@
             This project provides a solid foundation in Pandas, essential for data scientists and analysts.
         </p>
     </section>
-    
     <section style="padding: 20px;">
         <h2 style="color: #2980b9;">Contributing</h2>
         <p>Feel free to fork this repository, make changes, and submit pull requests. We welcome contributions to enhance the content, improve exercises, and add more examples.</p>
     </section>
-
     <footer style="background-color: #3498db; color: white; padding: 10px; text-align: center;">
         <p>License: MIT License</p>
     </footer>
